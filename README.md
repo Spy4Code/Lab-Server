@@ -12,4 +12,4 @@ Passowrd : lab
 # Setup server in virtualbox
 Whatch the Vedio to see how to set up the lab
 
-Limk >> 
+Link >> 
